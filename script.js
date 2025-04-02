@@ -1,8 +1,8 @@
-const test = getElementById('title');
+const test = document.getElementById('title');
 console.log(test);
-const one = document.querySelector("#one");
-const two = document.querySelector("#two");
-const three = document.querySelector("#three");
-console.log(one);
-console.log(two);
-console.log(three);
+let on = document.querySelector("#one");
+let tw = document.querySelector("#two");
+let thre = document.querySelector("#three");
+console.log(on);
+console.log(tw);
+console.log(thre);
